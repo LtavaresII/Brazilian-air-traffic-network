@@ -60,8 +60,7 @@ North: 16.67%, Northeast: 20%, Midwest: 23.33%, Southeast: 20% and South: 20%.
 
 For the fourth and last part, we will create a simulated scenario going from city to city, through five cities (Boa vista, Florianopolis, Vera Cruz, Várzea Grande and Guarulhos), through that, we want the shortest path, describe the path taken and the number of trips taken.
 
-
+The shortest path taken are Boa vista -> Florianopolis -> Salvador -> Vera Cruz -> Salvador -> Várzea Grande -> Guarulhos. Took 6 trips to reach the destination city.
 
 # Author
 Name: Luís Fernando Tavares
-
