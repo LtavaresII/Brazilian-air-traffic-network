@@ -5,6 +5,7 @@ This is a study on brazilian air traffic, in order to analyze the data in graphs
 # Preparing the Data
 
 The dataset used in this study has all flights in Brazil registered by ANAC, nationally and internationally: https://github.com/alvarofpp/dataset-flights-brazil/tree/main/data
+
 For the study, we treat the data to use only the nacinal brazilian air network, due to the fact that, as the main node attribute for the study is "region", national regions, international airports do not have this attribute defined, causing noise.
 
 # Part 1: Assortativity Graph
