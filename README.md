@@ -18,7 +18,7 @@ After, we build a mixing matrix that refers to the relationship between the aeri
 
 Then, we will generate a similar graph considering as a group the AIRPORT REGION.
 
-<img src="/images/assortativity.png" height="550" width="675">
+<img src="/images/assortativity.png" height="550" width="650">
 
 # Part 2: Degree Assortativity
 
