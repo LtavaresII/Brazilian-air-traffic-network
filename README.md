@@ -12,6 +12,10 @@ For the study, we treat the data to use only the nacinal brazilian air network, 
 
 For the first part, we will conduct a study on the network assortativity considering as an attribute the REGION where the airport.
 
+To being, we define the assortativity of this network based on attribute group, the value obtained was greater than zero, so the network is assortative.
+
+After, we build a mixing matrix that refers to the relationship between the aerial lines of the regions of Brazil, where the intersection of the row with the column indicates the percentage of the relationship between the regions. Through it, it is seen that the central-west region is the region that has the busiest airline.
+
 
 
 Then, we will generate a similar graph considering as a group the AIRPORT REGION.
