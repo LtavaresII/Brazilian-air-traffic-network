@@ -16,7 +16,7 @@ For the first part, we will conduct a study on the network assortativity conside
 
 Then, we will generate a similar graph considering as a group the AIRPORT REGION.
 
-<img src="/images/assortativity.png" height="600" width="800">
+<img src="/images/assortativity.png" height="600" width="700">
 
 # Part 2: Degree Assortativity
 
