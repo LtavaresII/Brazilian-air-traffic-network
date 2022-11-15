@@ -26,7 +26,7 @@ For the second part, we will perform a bivariate analysis between the degree of 
 
 - Brazil Network:
 
-<img src="/images/degree_assortativity_brazil.png" height="500" width="775">
+<img src="/images/degree_assortativity_brazil.png" height="500" width="700">
 
 - North Region Network:
 
