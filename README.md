@@ -58,6 +58,8 @@ North: 16.67%, Northeast: 20%, Midwest: 23.33%, Southeast: 20% and South: 20%.
 
 # Part 4: Walks, Paths and Distances
 
+For the fourth and last part, we will create a simulated scenario going from city to city, through five cities (Boa vista, Florianopolis, Vera Cruz, Várzea Grande and Guarulhos), through that, we want the shortest path, describe the path taken and the number of trips taken.
+
 
 
 # Author
