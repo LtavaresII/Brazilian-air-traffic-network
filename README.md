@@ -48,7 +48,7 @@ South Region Network:
 
 <img src="/images/degree_assortativity_S.png" height="500" width="700">
 
-
+Through this analysis, it is evident that the Brazilian air traffic in the country as a whole, and in its regions, are disassortative networks by degrees.
 
 # Part 3: Connected Components
 
