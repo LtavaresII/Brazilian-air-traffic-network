@@ -24,27 +24,27 @@ Then, we will generate a similar graph considering as a group the AIRPORT REGION
 
 For the second part, we will perform a bivariate analysis between the degree of the vertex and the average number of neighbors, generate a similar graph for both in Brazil and their regions networks.
 
-Brazil Network:
+- Brazil Network:
 
 <img src="/images/degree_assortativity_brazil.png" height="500" width="700">
 
-North Region Network:
+- North Region Network:
 
 <img src="/images/degree_assortativity_N.png" height="500" width="700">
 
-Northeast Region Network:
+- Northeast Region Network:
 
 <img src="/images/degree_assortativity_ND.png" height="500" width="700">
 
-Midwest Region Network:
+- Midwest Region Network:
 
 <img src="/images/degree_assortativity_CO.png" height="500" width="700">
 
-Southeast Region Network:
+- Southeast Region Network:
 
 <img src="/images/degree_assortativity_SD.png" height="500" width="700">
 
-South Region Network:
+- South Region Network:
 
 <img src="/images/degree_assortativity_S.png" height="500" width="700">
 
