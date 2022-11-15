@@ -62,5 +62,5 @@ For the fourth and last part, we will create a simulated scenario going from cit
 
 The shortest path taken are Boa vista -> Florianopolis -> Salvador -> Vera Cruz -> Salvador -> Várzea Grande -> Guarulhos. Took 6 trips to reach the destination city.
 
-## h2 Author
+## Author
 Name: Luís Fernando Tavares
