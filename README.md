@@ -52,6 +52,8 @@ Through this analysis, it is evident that the Brazilian air traffic in the count
 
 # Part 3: Connected Components
 
-
+For the third part, we will finding how many connected components are there in the Brazilian air network, characterize by amount and percentage per region.
+Through all fire regions, the Brazil have 30 connected components, in percentage, they are separated in:
+North: 16.67%, Northeast: 20%, Midwest: 23.33%, Southeast: 20% and South: 20%
 
 # Part 4: Walks, Paths and Distances
