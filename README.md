@@ -26,27 +26,27 @@ For the second part, we will perform a bivariate analysis between the degree of 
 
 Brazil Network:
 
-<img src="/images/degree_assortativity_brazil.png" height="500" width="600">
+<img src="/images/degree_assortativity_brazil.png" height="500" width="700">
 
 North Region Network:
 
-<img src="/images/degree_assortativity_N.png" height="500" width="600">
+<img src="/images/degree_assortativity_N.png" height="500" width="700">
 
 Northeast Region Network:
 
-<img src="/images/degree_assortativity_ND.png" height="500" width="600">
+<img src="/images/degree_assortativity_ND.png" height="500" width="700">
 
 Midwest Region Network:
 
-<img src="/images/degree_assortativity_CO.png" height="500" width="600">
+<img src="/images/degree_assortativity_CO.png" height="500" width="700">
 
 Southeast Region Network:
 
-<img src="/images/degree_assortativity_SD.png" height="500" width="600">
+<img src="/images/degree_assortativity_SD.png" height="500" width="700">
 
 South Region Network:
 
-<img src="/images/degree_assortativity_S.png" height="500" width="600">
+<img src="/images/degree_assortativity_S.png" height="500" width="700">
 
 
 
