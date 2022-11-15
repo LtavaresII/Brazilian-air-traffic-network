@@ -18,7 +18,7 @@ After, we build a mixing matrix that refers to the relationship between the aeri
 
 Then, we will generate a similar graph considering as a group the AIRPORT REGION.
 
-<img src="/images/assortativity.png" height="550" width="600">
+<img src="/images/assortativity.png" height="550" width="675">
 
 # Part 2: Degree Assortativity
 
@@ -26,7 +26,7 @@ For the second part, we will perform a bivariate analysis between the degree of 
 
 - Brazil Network:
 
-<img src="/images/degree_assortativity_brazil.png" height="500" width="700">
+<img src="/images/degree_assortativity_brazil.png" height="500" width="750">
 
 - North Region Network:
 
