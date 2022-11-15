@@ -1,4 +1,4 @@
-# Brazilian-air-traffic-network
+# Brazilian Air Traffic Network
 
 This is a study on brazilian air traffic, in order to analyze the data in graphs, using networkx, we will verify the assortativity of the graph using the attribute "region", analyze the assortativity related to degree, for both in Brazil and their regions networks, analyze the connected components of both Brazil and their regions and create a travel scenario to determine the shortest path of a route of five cities.
 
